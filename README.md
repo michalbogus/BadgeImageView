@@ -1,1 +1,1 @@
-# Bogus-BadgeImageView
+# BadgeImageView
